@@ -1,0 +1,202 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What is the waterfall doing in the poem?",
+    "options": [
+      "Sleeping quietly",
+      "Singing and splashing",
+      "Growing flowers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "How does the poet describe the waterfall’s movement?",
+    "options": [
+      "Slow and steady",
+      "Fast and bright",
+      "Calm and peaceful"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Look at the picture and choose the correct sentence:<br><img width='45%' src='4.jpg'>",
+    "options": [
+      "Sophie is dancing in the classroom.",
+      "Sophie is playing an instrument in the classroom.",
+      "Sophie is teaching in the classroom."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which of the following words is a noun?",
+    "options": [
+      "Fearful",
+      "Umbrella",
+      "Slow"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Look at the image and choose the action happening.<br><img width='45%' src='5.jpg'>",
+    "options": [
+      "Swim",
+      "Jump",
+      "Sing"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "<b>Complete the sentence with the correct contraction:</b><br> He ____ going to the park.",
+    "options": [
+      "is'nt",
+      "isn't",
+      "arent"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "<b>Complete the sentence with the correct contraction:</b><br> I ____ know where my book is.",
+    "options": [
+      "don’t",
+      "doesn’t",
+      "did'nt"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "<b>Complete the sentence with the correct contraction:</b><br> She ____ like to eat broccoli.",
+    "options": [
+      "doesn't",
+      "can’t",
+      "it’s"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "<b>Complete the sentence with the correct contraction:</b><br> We ____ going to the zoo today.",
+    "options": [
+      "doesn’t",
+      "is'nt",
+      "aren’t"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "<b>Complete the sentence with the correct contraction:</b><br> ____ a rainy day today.",
+    "options": [
+      "It’s",
+      "He’s",
+      "Can’t"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which is the correct contraction for 'He is'?",
+    "options": [
+      "He’s",
+      "He’re",
+      "He isn’t"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which is the contraction for 'She is'?",
+    "options": [
+      "Shes",
+      "She’s",
+      "She isn’t"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Which is the correct contraction for 'It is'?",
+    "options": [
+      "It’s",
+      "Its",
+      "I’ts"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which is the correct contraction for 'We are'?",
+    "options": [
+      "We isn’t",
+      "We aren’t",
+      "We’re"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which is the contraction for 'You are'?",
+    "options": [
+      "You’re",
+      "Your",
+      "Your’e"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which is the contraction for 'is not'?",
+    "options": [
+      "Isn’t",
+      "Is’t",
+      "Isn’t’t"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which is the correct contraction for 'Are not'?",
+    "options": [
+      "Are’nt",
+      "Are’t",
+      "Aren’t"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which is the contraction for 'Were not'?",
+    "options": [
+      "Weren’t",
+      "Was’t",
+      "Were’nt"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which is the contraction for 'Has not'?",
+    "options": [
+      "Has’nt",
+      "Hasn’t",
+      "Has not’s"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Which is the contraction for 'Does not'?",
+    "options": [
+      "Doesn’t",
+      "Don’t",
+      "Does’t"
+    ],
+    "correct": 0
+  }
+]
